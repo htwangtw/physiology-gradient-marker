@@ -4,3 +4,4 @@
 **/.git* annex.largefiles=nothing
 
 code/** annex.largefiles=nothing
+references/** annex.largefiles=nothing
