@@ -1,0 +1,41 @@
+DKEFS 20 Questions,8100_DKEFS 20 Questions_20161025
+DKEFS 20 Questions Addendum - Redundant Subordinates,8100_DKEFS 20 Questions Addendum - Redundant Subordinates_20161025
+DKEFS Color Word Interference,8100_DKEFS Color Word Interference_20161024
+DKEFS Design Fluency,8100_DKEFS Design Fluency_20161025
+DKEFS PROVERBS,8100_DKEFS PROVERBS_20161025
+DKEFS Sorting,8100_DKEFS Sorting_20161025
+DKEFS TOWER,8100_DKEFS TOWER_20161024
+DKEFS Trails,8100_DKEFS Trails_20161025
+DKEFS Verbal Fluency,8100_DKEFS Verbal Fluency_20161025
+DKEFS Word Context,8100_DKEFS Word Context_20161025
+Digit-Span,8100_Digit Span_20161025
+Age,8100_Age_20161025
+Attention Network Test,8100_ANT_20161025
+Blood,8100_Blood collection_20161025
+Vital Sign,8100_HTWT-Vitals_20161024
+Adult ADHD Clinical Diagnostic Scale,8100_ACDS_20161025
+The Behavioural Indicator of Resiliency to Distress,8100_Bird_20161025
+Adult ADHD Rating Scale,8100_CAARS-SS_20161025
+Adult Temperament Questionnaire,8100_ATQ_20161024
+Early Adolescent Temperament Questionnaire,8100_EATQ-R_20161025
+The Children's Behaviour Questionnaire,8100_CBQ_20161025
+The comprehensive Addiction Severity Index for Adolescents,8100_CASI-A_20161025
+Cognitive Failures Questionnaire,8100_CFQ_20161025
+Inventory of Callous-Unemtotional Traits (Parents),8100_ICUP_20161025
+Inventory of Callous-Unemtotional Traits (Youth),8100_ICUY_20161025
+International Physical Activity Questionnaire,8100_IPAQ_20161025
+Interpersonal Reactivity Index,8100_IRI_20161025
+Peters et al. Delusions Inventory,8100_PDI-21_20161024
+Sleep Quality,8100_PSQI_20161025
+Positive and Negative Affect Schedule-Short Form,8100_PANAS-S_20161025
+Socialeconomic Status,8100_SES-Adult_20161025
+Social Responsiveness Scale,8100_SRS-ParentReport_20161025
+State-Trait Anxiety Inventory,8100_STAI_20161025
+Trauma Symptom Checklist for adult,8100_TSC-40_20161025
+Trauma Symptom Checklist for children,8100_TSC-C_20161025
+UCLA PTSD Reaction Index (Parents),8100_UCLA-Parent_20161025
+UCLA PTSD Reaction Index (Youth),8100_UCLA Youth_20161025
+Impulsive behaviour scale,8100_UPPS-P_20161025
+WIAT,8100_WIAT-IIA_20161024
+WASI,8100_WASI-II_20161025
+Yale Global Tic Severity Scale,8100_YGTSS_20161025
