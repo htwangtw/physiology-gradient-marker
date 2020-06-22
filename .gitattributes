@@ -6,3 +6,4 @@
 code/** annex.largefiles=nothing
 references/** annex.largefiles=nothing
 results/** annex.largefiles=nothing
+scripts/** annex.largefiles=nothing
