@@ -1,6 +1,5 @@
 
 * annex.backend=MD5E
-* annex.largefiles=(not(mimetype=text/*)) 
 **/.git* annex.largefiles=nothing
 
 code/** annex.largefiles=nothing
@@ -8,4 +7,6 @@ references/** annex.largefiles=nothing
 results/** annex.largefiles=nothing
 scripts/** annex.largefiles=nothing
 *.md annex.largefiles=nothing
-*.txt annex.largefiles=nothing
+* annex.largefiles=nothing
+
+**/*.json annex.largefiles=nothing
