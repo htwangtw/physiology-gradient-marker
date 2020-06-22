@@ -10,3 +10,4 @@ scripts/** annex.largefiles=nothing
 * annex.largefiles=nothing
 
 **/*.json annex.largefiles=nothing
+**/*.csv annex.largefiles=nothing
