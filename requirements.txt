@@ -1,11 +1,11 @@
 brainspace==0.1.1
-matplotlib==3.2.1
-nibabel==3.1.0
+matplotlib>=3.2
+nibabel>=3.1.0
 nilearn==0.6.2
-numpy==1.18.4
-pandas==1.0.3
+numpy>=1.18
+pandas>=1.0
 scikit-learn==0.23.1
-scipy==1.4.1
+scipy>=1.4
 seaborn==0.10.1
 vtk==8.1.2
 boto3==1.13.20
@@ -13,4 +13,3 @@ botocore==1.16.20
 detecta==0.0.5
 systole==0.1.0
 s3fs==0.4.2
-

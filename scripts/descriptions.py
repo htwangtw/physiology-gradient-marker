@@ -6,7 +6,7 @@ from pathlib import Path
 import json
 
 
-p = Path.home() / "projects/gradient-physiology"
+p = Path.home() / "projects/physiology-gradient-marker"
 ref = p / "references/interested_var.txt"
 
 dict_var = {"age": {"min": 17,

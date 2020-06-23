@@ -41,7 +41,7 @@ def yeo_sparse(fc_mat, percent=95):
     fc_mat *= top
     return fc_mat
 
-p = Path.home() / "projects/gradient-physiology"
+p = Path.home() / "projects/physiology-gradient-marker"
 
 tr = 0.645
 window_size = 24

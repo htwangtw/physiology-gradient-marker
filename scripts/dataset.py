@@ -11,7 +11,7 @@ import NKIhelper as nh
 
 if __name__ == "__main__":
 
-    p = Path.home() / "projects/gradient-physiology"
+    p = Path.home() / "projects/physiology-gradient-marker"
     ref = p / "data/variable_selection.json"
     raw_data = p / "data/sourcedata/AssessmentData"
 

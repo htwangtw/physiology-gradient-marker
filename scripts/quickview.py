@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 if __name__ == "__main__":
-    p = Path.home / "projects/gradient-physiology"
+    p = Path.home / "projects/physiology-gradient-marker"
 
     lst = []
     # read file
