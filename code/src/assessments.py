@@ -38,11 +38,6 @@ def select_by_age(path, age):
     df_age = df_age_dropdupe["AGE_04"]
     return df_age
 
-def assessment_path(base_dir, key):
-    """
-    full path of the assessment data
-    """
-    return list(base_dir.glob(f"*/{key}.csv"))[0]
 
 def get_assessment(path, items):
     """
@@ -130,7 +125,12 @@ def clean_variablewise(dict_assessments, subject_list, base_dir, threshold=0.3):
     # Even if the missing data in the full dataset is under 30%,
     # it would be probelmatic to impute those variables if all missing are from the same age group,
     # as there's no data points representing that population.
-
+    def assessment_path(base_dir, key):
+        """
+        full path of the assessment data
+        """
+        return list(base_dir.glob(f"*/{key}.csv"))[0]
+        
     max_n = len(subject_list)
 
     concat_df = []
