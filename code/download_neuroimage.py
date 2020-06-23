@@ -7,6 +7,8 @@ from botocore import UNSIGNED
 from botocore.client import Config
 from botocore.handlers import disable_signing
 
+s3_bucket_name = 'fcp-indi'
+
 s3 = boto3.resource('s3')
 s3.meta.client.meta.events.register('choose-signer.s3.*', disable_signing)
 s3_bucket = s3.Bucket(s3_bucket_name)
