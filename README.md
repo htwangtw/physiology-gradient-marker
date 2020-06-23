@@ -15,10 +15,5 @@ pip install git+https://github.com/htwangtw/tftb.git@spwv_fix
 pip install -r requirements.txt
 ```
 
-4. install customised functions
-```
-pip install .
-```
-
 ## Contact
 htwangtw@gmail.com
