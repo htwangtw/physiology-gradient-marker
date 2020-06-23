@@ -1,0 +1,503 @@
+{
+  "age": {
+    "min": 17,
+    "max": 86
+    },
+  "assessments": {
+    "8100_Demos_20161025":{
+      "DEM_002": {
+        "descriptions": "gender",
+        "type": "categorical",
+        "level": {
+          "1": "male",
+          "2": "female"
+        }
+      }
+    },
+    "8100_DKEFS 20 Questions_20161025": {
+      "QUEST_29": {
+        "descriptions": "Enter variable description",
+        "type": "continuous"
+      },
+      "QUESTS_27": {
+        "descriptions": "Total Questions Asked Raw Score",
+        "type": "continuous"
+      },
+      "QUESTS_25": {
+        "descriptions": "Initial Abstraction Total Raw Score",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Color Word Interference_20161024": {
+      "DKEFSCWI_15": {
+        "descriptions": "Inhibition Scaled ",
+        "type": "continuous"
+      },
+      "DKEFSCWI_16": {
+        "descriptions": "Inhibition/Switching Scaled",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Design Fluency_20161025": {
+      "DF_17": {
+        "descriptions": "Design Fluency Total Correct: Composite",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS PROVERBS_20161025": {
+      "PROV_01": {
+        "descriptions": "Total Achievement Score: Free Inquiry",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Sorting_20161025": {
+      "DKEFSSORT_44": {
+        "descriptions": "Free Sorting Description Score Total Raw Score",
+        "type": "continuous"
+      },
+      "DKEFSSORT_46": {
+        "descriptions": "Sort Recognition Description Total Raw Score",
+        "type": "continuous"
+      },
+      "DKEFSSORT_70": {
+        "descriptions": "Percent Sorting Accuracy Percent Raw Score",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS TOWER_20161024": {
+      "TOWER_46": {
+        "descriptions": "Total Achievement Score Total Raw",
+        "type": "continuous"
+      },
+      "TOWER_56": {
+        "descriptions": "Move Accuracy Ratio Raw",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Trails_20161025": {
+      "DKEFSTMT_04": {
+        "descriptions": "Number-Letter Switching",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Verbal Fluency_20161025": {
+      "VF_36": {
+        "descriptions": "Letter Fluency Vs Category Fluency Diff",
+        "type": "continuous"
+      },
+      "VF_38": {
+        "descriptions": "Category Switching Vs Category Fluency Diff",
+        "type": "continuous"
+      }
+    },
+    "8100_DKEFS Word Context_20161025": {
+      "WORD_51": {
+        "descriptions": "Total Consecutively Correct Raw",
+        "type": "continuous"
+      }
+    },
+    "8100_Digit Span_20161025": {
+      "DSpan_02": {
+        "descriptions": "forwards digit span length",
+        "type": "continuous"
+      },
+      "DSpan_05": {
+        "descriptions": "backwards digit span length",
+        "type": "continuous"
+      }
+    },
+    "8100_ANT_20161025": {
+      "ANT_05": {
+        "descriptions": "attention network task accuracy",
+        "type": "continuous"
+      }
+    },
+    "8100_HTWT-Vitals_20161024": {
+      "VIT_05": {
+        "descriptions": "BMI",
+        "type": "continuous"
+      },
+      "VIT_06": {
+        "descriptions": "Systolic blood pressure",
+        "type": "continuous"
+      },
+      "VIT_07": {
+        "descriptions": "Diastolic blood pressure",
+        "type": "continuous"
+      },
+      "VIT_08": {
+        "descriptions": "Pulse",
+        "type": "continuous"
+      }
+    },
+    "8100_ACDS_20161025": {
+      "ACDS_42": {
+        "descriptions": "ADHD subtype",
+        "type": "categorical",
+        "level": {"TODO":"TODO"}
+      }
+    },
+    "8100_Bird_20161025": {
+      "BIR_3": {
+        "descriptions": "BIRD PASAT score",
+        "type": "continuous"
+      }
+    },
+    "8100_CAARS-S\uf022S_20161025": {
+      "CAARS_27": {
+        "descriptions": "ADHD - inattention/memory problems",
+        "type": "continuous"
+      },
+      "CAARS_28": {
+        "descriptions": "ADHS - hyperactivity/restlessness",
+        "type": "continuous"
+      },
+      "CAARS_29": {
+        "descriptions": "ADHD - impulsivity/emotional liability",
+        "type": "continuous"
+      },
+      "CAARS_30": {
+        "descriptions": "ADHD - problem with self-concept",
+        "type": "continuous"
+      },
+      "CAARS_31": {
+        "descriptions": "ADHD index",
+        "type": "continuous"
+      }
+    },
+    "8100_ATQ_20161024": {
+      "ATQ_82": {
+        "descriptions": "negetive affect",
+        "type": "continuous"
+      },
+      "ATQ_86": {
+        "descriptions": "effortful control",
+        "type": "continuous"
+      },
+      "ATQ_90": {
+        "descriptions": "extraversion / surgency",
+        "type": "continuous"
+      },
+      "ATQ_94": {
+        "descriptions": "orienting sensitivity",
+        "type": "continuous"
+      }
+    },
+    "8100_EATQ-R_20161025": {
+      "EATQ_73": {
+        "descriptions": "effortful control",
+        "type": "continuous"
+      },
+      "EATQ_74": {
+        "descriptions": "surgency",
+        "type": "continuous"
+      },
+      "EATQ_75": {
+        "descriptions": "negetive affect}",
+        "type": "continuous"
+      },
+      "EATQ_76": {
+        "descriptions": "affiliativeness",
+        "type": "continuous"
+      }
+    },
+    "8100_CBQ_20161025": {
+      "CBQM_37": {
+        "descriptions": "surgency",
+        "type": "continuous"
+      },
+      "CBQM_38": {
+        "descriptions": "negative affect",
+        "type": "continuous"
+      },
+
+      "CBQM_39": {
+        "descriptions": "effortful control",
+        "type": "continuous"
+      }
+    },
+    "8100_CASI-A_20161025": {
+      "CASI_01": {
+        "descriptions": "tobacco use",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_11": {
+        "descriptions": "alcohol",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_21": {
+        "descriptions": "Marijuana use",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_31": {
+        "descriptions": "Stimulants (other than cocaine)",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_41": {
+        "descriptions": "Cocaine use",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_51": {
+        "descriptions": "Narcotics use",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_61": {
+        "descriptions": "Hallucinogens",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_71": {
+        "descriptions": "Inhalants",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_81": {
+        "descriptions": "Tranquilizers",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_91": {
+        "descriptions": "misc drug uses",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      },
+      "CASI_101": {
+        "descriptions": "other drug uses",
+        "type": "categorical",
+        "level": {"1": "yes",
+                  "0": "no"}
+      }
+    },
+    "8100_CFQ_20161025": {
+      "COGFQ_26": {
+        "descriptions": "Cognitive Failures total score",
+        "type": "continuous"
+      }
+    },
+    "8100_ICUP_20161025": {
+      "DICUY_028": {
+        "descriptions": "Inventory of Callous-Unemtotional Traits (Parents)",
+        "type": "continuous"
+      }
+    },
+    "8100_ICUY_20161025": {
+      "DICUY_25": {
+        "descriptions": "Inventory of Callous-Unemtotional Traits (Youth)",
+        "type": "continuous"
+      }
+    },
+    "8100_IPAQ_20161025": {
+      "IPAQ_70": {
+        "descriptions": "physical activity - moderate",
+        "type": "continuous"
+      },
+      "IPAQ_72": {
+        "descriptions": "total physical activity",
+        "type": "continuous"
+      }
+    },
+    "8100_IRI_20161025": {
+      "IPRI_29": {
+        "descriptions": "Interpersonal Reactivity - perspective taking",
+        "type": "continuous"
+      },
+      "IPRI_30": {
+        "descriptions": "Interpersonal Reactivity - fantasy",
+        "type": "continuous"
+      },
+      "IPRI_31": {
+        "descriptions": "Interpersonal Reactivity - empathic concerns",
+        "type": "continuous"
+      },
+      "IPRI_32": {
+        "descriptions": "Interpersonal Reactivity - personal distress",
+        "type": "continuous"
+      }
+    },
+    "8100_PDI-21_20161024": {
+      "PDI_23": {
+        "descriptions": "Delusions Inventory - distress",
+        "type": "continuous"
+      },
+      "PDI_24": {
+        "descriptions": "Delusions Inventory - preoccupation",
+        "type": "continuous"
+      },
+      "PDI_25": {
+        "descriptions": "Delusions Inventory - conviction",
+        "type": "continuous"
+      },
+      "PDI_22": {
+        "descriptions": "Delusions Inventory - total score",
+        "type": "continuous"
+      }
+    },
+    "8100_PSQI_20161025": {
+      "PSQI_18": {
+        "descriptions": "sleep quality score",
+        "type": "continuous"
+      }
+    },
+    "8100_PANAS-S_20161025": {
+      "CCDPANAS_21": {
+        "descriptions": "PANAS - postive",
+        "type": "continuous"
+      },
+      "CCDPANAS_22": {
+        "descriptions": "PANAS - negative",
+        "type": "continuous"
+      },
+
+      "CCDPANAS_23": {
+        "descriptions": "PANAS - total",
+        "type": "continuous"
+      }
+    },
+    "8100_SES-Adult_20161025": {
+      "NKISES_09": {
+        "descriptions": "Subject SES Score",
+        "type": "continuous"
+      },
+      "NKISES_10": {
+        "descriptions": "Subject Parental SES Score",
+        "type": "continuous"
+      }
+    },
+    "8100_SRS-ParentReport_20161025": {
+      "DSRS_68": {
+        "descriptions": "parent report - awareness",
+        "type": "continuous"
+      },
+      "DSRS_69": {
+        "descriptions": "parent report - cognition",
+        "type": "continuous"
+      },
+      "DSRS_70": {
+        "descriptions": "parent report - communication",
+        "type": "continuous"
+      },
+      "DSRS_71": {
+        "descriptions": "motivation",
+        "type": "continuous"
+      },
+      "DSRS_72": {
+        "descriptions": "parent report - mannerisms",
+        "type": "continuous"
+      },
+      "DSRS_73": {
+        "descriptions": "parent report - SRS total",
+        "type": "continuous"
+      }
+    },
+    "8100_STAI_20161025": {
+      "DSEQ_41": {
+        "descriptions": "state anxiety",
+        "type": "continuous"
+      },
+      "DSEQ_42": {
+        "descriptions": "trait anxiety",
+        "type": "continuous"
+      }
+    },
+    "8100_TSC-40_20161025": {
+      "TSC40_47": {
+        "descriptions": "trauma symptom adult total score",
+        "type": "continuous"
+      }
+    },
+    "8100_TSC-C_20161025": {
+      "TSCC_65": {
+        "descriptions": "trauma symptom children total score",
+        "type": "continuous"
+      },
+      "TSCC_66": {
+        "descriptions": "trauma symptom children - under response",
+        "type": "continuous"
+      }
+    },
+    "8100_UCLA-Parent_20161025": {
+      "PTSDP_54": {
+        "descriptions": "PTSD parent report",
+        "type": "continuous"
+      }
+    },
+    "8100_UCLA Youth_20161025": {
+      "PTSDCH_55": {
+        "descriptions": "PTSD adult",
+        "type": "continuous"
+      }
+    },
+    "8100_UPPS-P_20161025": {
+      "UPPS_60": {
+        "descriptions": "UPPS - Negative Urgency",
+        "type": "continuous"
+      },
+      "UPPS_61": {
+        "descriptions": "UPPS - lack of Premeditation",
+        "type": "continuous"
+      },
+      "UPPS_62": {
+        "descriptions": "UPPS - (lack of) Perseverance",
+        "type": "continuous"
+      },
+      "UPPS_63": {
+        "descriptions": "UPPS - Sensation Seeking Score",
+        "type": "continuous"
+      },
+      "UPPS_64": {
+        "descriptions": "UPPS - Positive Urgency Score",
+        "type": "continuous"
+      },
+      "UPPS_65": {
+        "descriptions": "UPPS - Total Score",
+        "type": "continuous"
+      }
+    },
+    "8100_WIAT-IIA_20161024": {
+      "WIAT_08": {
+        "descriptions": "WIAT score",
+        "type": "continuous"
+      }
+    },
+    "8100_WASI-II_20161025": {
+      "INT_17": {
+        "descriptions": "WASI score",
+        "type": "continuous"
+      }
+    },
+    "8100_YGTSS_20161025": {
+      "YGTSS_11": {
+        "descriptions": "Overall TS Impairment Rating",
+        "type": "continuous"
+      },
+      "YGTSS_12": {
+        "descriptions": "Motor Tic Subscore",
+        "type": "continuous"
+      },
+      "YGTSS_13": {
+        "descriptions": "Vocal Tic subscore",
+        "type": "continuous"
+      },
+      "YGTSS_14": {
+        "descriptions": "Total Score",
+        "type": "continuous"
+      }
+    }
+  }
+}
