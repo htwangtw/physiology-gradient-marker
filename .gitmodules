@@ -1,0 +1,4 @@
+[submodule "data/derivatives/C-PAC"]
+	path = data/derivatives/C-PAC
+	url = ./data/derivatives/C-PAC
+	datalad-id = b84a519e-b70a-11ea-8ae6-1c98ec1584fc
