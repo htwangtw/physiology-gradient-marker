@@ -6,3 +6,7 @@
 	path = data/derivatives/physiology
 	url = ./data/derivatives/physiology
 	datalad-id = ccdcf77e-b70a-11ea-8484-1c98ec1584fc
+[submodule "data/source_phenotype"]
+	path = data/source_phenotype
+	url = ./data/source_phenotype
+	datalad-id = 0a08ae3e-b7a3-11ea-b987-1c98ec1584fc
